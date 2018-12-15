@@ -6,23 +6,30 @@ https://issues.apache.org/jira/projects/WEEX/issues
 
 # 社区
 中文：https://segmentfault.com/t/weex
+
 英文：http://stackoverflow.com/questions/tagged/weex
 
 
 # UI 组件
 [BUI-Weex](http://dev.bingocc.com/buiweex/docs/)
+
 [Weex Ui](https://alibaba.github.io/weex-ui/#/cn/)
+
 [Weex-AMUI](https://hminghe.github.io/weex-amui/#/)
+
 [Weex FlymeUI](https://flymeapps.github.io/weex-flymeui/#/)
 
 
 # SDK 封装
 [WeexContainer](https://github.com/MasonLiuChn/WeexContainer-Android)：封装Weex容器层，处理多页面、Bundle缓存、验签问题
+
 [EROS](https://bmfe.github.io/eros-docs/#/):weex脚手架扩展、原生功能扩展
+
 [Nat.js](http://natjs.com/#/zh-cn/)：原生功能扩展
 
 # 视频教程
 [Weex框架入门视频教程](https://www.imooc.com/learn/948)
+
 [weex项目实战视频教程](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)：weex暴走青年录制
 
 # 例子
